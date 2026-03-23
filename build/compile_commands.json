@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/main.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/main.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/main.cpp"
+},
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/Ciudad.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/Ciudad.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/Ciudad.cpp"
+},
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/Ruta.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/Ruta.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/Ruta.cpp"
+},
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/Paquete.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/Paquete.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/Paquete.cpp"
+},
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/GestorRutas.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/GestorRutas.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/GestorRutas.cpp"
+},
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/GestorPaquetes.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/GestorPaquetes.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/GestorPaquetes.cpp"
+},
+{
+  "directory": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/build",
+  "command": "/usr/bin/g++  -I/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/include -g -std=gnu++11 -o CMakeFiles/ProyectoMensajeria.dir/src/SistemaMensajeria.cpp.o -c /home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/SistemaMensajeria.cpp",
+  "file": "/home/rocke/Documentos/drSaid/ds-u2-a2-Roque31-y/src/SistemaMensajeria.cpp"
+}
+]
